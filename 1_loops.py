@@ -4,8 +4,10 @@ fruits = ["apple", "banana", "cherry", "date"]
 
 # Challenge:
 # Use a for loop to print each fruit on a new line.
-
-
+print(fruits[0])
+print(fruits[1])
+print(fruits[2])
+print(fruits[3])
 # Given a list of school subjects:
 subjects = ["Math", "Science", "History", "Art"]
 
